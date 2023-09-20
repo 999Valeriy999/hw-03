@@ -3,6 +3,8 @@
   --c-background-light: #D9D9D9;
   --c-background:#FFFFFF;
 }
+  
+/* Base */
 
 body {
     font-family:"Roboto", sans-serif;
@@ -37,6 +39,7 @@ button {
      color: var(--NAVY-BLUE, #2E2F42);
      letter-spacing: -0.03em;
 }
+
 .nav-link {
  color:#2e2f42;
  font-size: 16px;
@@ -62,6 +65,10 @@ button {
 .address-link:hover,
 .address-link:focus {
     color:#404bbf;
+}
+
+.line {
+    border-bottom: 1px solid #e7e9fc; 
 }
 
 .hero-section {
@@ -143,6 +150,12 @@ button {
     letter-spacing: 0.02em;
 }
 
+.photo-portfolio {
+    border-bottom: 1px solid #e7e9fc;
+
+}
+
+
 .footer-color {
     background-color: #2e2f42;
 }
@@ -162,6 +175,9 @@ button {
     color: #F4F4FD;
     letter-spacing: 0.02em;
 }
+
+
+
 
 
 
