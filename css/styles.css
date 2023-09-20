@@ -114,6 +114,7 @@ button {
 .our-team {
     background-color: #F4F4FD; 
 }
+
 .list-color {
  background-color: #FFFFFF;
 }
@@ -155,6 +156,7 @@ button {
     letter-spacing: 0.03em; /* em, rem */ /* let.spa./ font-size */
     text-transform: uppercase;
 }
+
 .text-footer {
     line-height: 1.5;
     color: #F4F4FD;
