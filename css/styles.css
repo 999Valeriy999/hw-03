@@ -25,6 +25,10 @@ button {
     font-family: inherit;
 }
 
+.container {
+max-width: 1440px;
+}
+
 .logo {
     color:#4d5ae5;
     font-family: "Raleway", sans-serif;
@@ -72,8 +76,7 @@ button {
 }
 
 .hero-section {
-    background: #2E2F42;
-    
+    background: #2E2F42;    
 }
 
 .hero-title {
@@ -152,9 +155,11 @@ button {
 
 .photo-portfolio {
     border-bottom: 1px solid #e7e9fc;
-
 }
 
+.footer-conteiner {
+    padding: 100px 0;
+}
 
 .footer-color {
     background-color: #2e2f42;
