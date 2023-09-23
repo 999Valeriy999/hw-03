@@ -30,6 +30,7 @@ button {
     margin: 0 auto;
     padding: 0 15px 0 15px;
     display: flex;
+
 }
 .logo {
     color:#4d5ae5;
@@ -40,7 +41,8 @@ button {
     letter-spacing: 0.03em; /* em, rem */ /* let.spa./ font-size */
     text-transform: uppercase;
     display: flex;
-    align-items: center
+    align-items: center;
+    margin-right: 76px;
 }
 
 .logo-accent {
@@ -54,7 +56,9 @@ button {
  font-weight: 500;
  line-height: 1.5;
  letter-spacing: 0.02em;
- 
+ gap: 40px;
+ display: flex;
+ padding: 24px 0;
 }
 
 .nav-link:hover,
@@ -69,6 +73,10 @@ button {
     font-style: normal;
     font-family:"Roboto", sans-serif;
     font-weight: 400;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    gap: 40px;
+    display: flex;
 }
 
 .address-link:hover,
