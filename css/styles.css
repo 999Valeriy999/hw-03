@@ -29,6 +29,15 @@ button {
 max-width: 1440px;
 }
 
+.container-header-container {
+   
+    width: 1158px;
+    margin: 0;
+    padding: 0 15px 0 15px;
+    display: flex;
+}
+
+
 .logo {
     color:#4d5ae5;
     font-family: "Raleway", sans-serif;
@@ -36,7 +45,9 @@ max-width: 1440px;
     font-weight: 700;
     line-height: 1.17; /* 116.667% */
     letter-spacing: 0.03em; /* em, rem */ /* let.spa./ font-size */
-    text-transform: uppercase;    
+    text-transform: uppercase;
+    display: flex;
+    align-items: center
 }
 
 .logo-accent {
@@ -107,6 +118,19 @@ max-width: 1440px;
 .button:focus {
    background-color: #404BBF;
 } 
+
+.list-benefits {
+   flex-direction: column;
+   display: flex;
+   gap: 24px;
+    
+}
+
+.benefits {
+    width: calc((100% - 72px) / 4);
+}
+
+
 
 .title-benefits {
     font-weight: 500; 
