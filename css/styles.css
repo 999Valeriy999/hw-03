@@ -25,13 +25,12 @@ button {
     font-family: inherit;
 }
 
-.container {
-width: 1158px;
-margin: 0;
-padding: 0 15px 0 15px;
-display: flex;
+.container-heder {
+    width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px 0 15px;
+    display: flex;
 }
-
 .logo {
     color:#4d5ae5;
     font-family: "Raleway", sans-serif;
