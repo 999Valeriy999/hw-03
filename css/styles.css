@@ -56,9 +56,13 @@ button {
  font-weight: 500;
  line-height: 1.5;
  letter-spacing: 0.02em;
- gap: 40px;
- display: flex;
- padding: 24px 0;
+ 
+}
+
+.link {
+    gap: 40px;
+    display: flex;
+    padding: 24px 0;
 }
 
 .nav-link:hover,
