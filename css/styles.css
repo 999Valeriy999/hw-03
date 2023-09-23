@@ -61,7 +61,7 @@ button {
  font-weight: 500;
  line-height: 1.5;
  letter-spacing: 0.02em;
- ;
+ 
 }
 
 .link {
@@ -82,7 +82,8 @@ button {
     font-style: normal;
     font-family:"Roboto", sans-serif;
     font-weight: 400;
-    
+    padding: 24px 0;
+    gap: 332px;
 }
 
 .address-link:hover,
