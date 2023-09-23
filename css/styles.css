@@ -61,13 +61,14 @@ button {
  font-weight: 500;
  line-height: 1.5;
  letter-spacing: 0.02em;
+
  
 }
 
 .link {
     gap: 40px;
     display: flex;
-    padding: 24px 0;
+    padding: 0 24px 0 24px;
 }
 
 .nav-link:hover,
@@ -82,8 +83,8 @@ button {
     font-style: normal;
     font-family:"Roboto", sans-serif;
     font-weight: 400;
-    padding: 24px 0;
-    gap: 332px;
+    
+    
 }
 
 .address-link:hover,
