@@ -140,20 +140,33 @@ button {
    background-color: #404BBF;
 
 }
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;   
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+  }
+
+
 .section-benefits {
 padding: 120px 0 120px;
 }
 
 .list-benefits {
-   flex-direction: column;
    display: flex;
    gap: 24px;
-   
-
 }
 
 .benefits {
- width:calc((100% - 3 * 24px) / 4);  
+ width: calc((100% - 72px) / 4); 
+ 
 }
 
 .title-benefits {
