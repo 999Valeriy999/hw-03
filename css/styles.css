@@ -165,7 +165,7 @@ padding: 120px 0 120px;
 }
 
 .benefits {
- flex-basis: calc ((100% - 72px) / 4);
+ flex-basis: calc((100% - 72px) / 4);
 }
 
 .title-benefits {
