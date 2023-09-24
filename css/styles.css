@@ -87,6 +87,7 @@ button {
     font-weight: 400;
     padding-top: 24px;
     padding-bottom: 24px;
+    margin-left: auto;
 
 }
 
@@ -147,12 +148,11 @@ padding: 120px 0 120px;
    flex-direction: column;
    display: flex;
    gap: 24px;
-   
-    
+   width:calc((100% - 3 * 24px) / 4);
+
 }
 
 .benefits {
-    width:calc((100% - 3 * 24px) / 4);
 }
 
 .title-benefits {
@@ -185,6 +185,7 @@ padding: 120px 0 120px;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    display: flex;
 }
 
 .name-team {
