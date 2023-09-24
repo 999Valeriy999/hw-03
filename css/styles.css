@@ -163,8 +163,8 @@ padding: 120px 0 120px;
   
 }
 
-.width {
- width: calc((100% - 72px) / 4);
+.benefits {
+flex-basis: calc((100% - 72px) / 4);
 }
 
 .title-benefits {
