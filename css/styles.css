@@ -143,6 +143,7 @@ button {
    flex-direction: column;
    display: flex;
    gap: 24px;
+   padding: 120px 0 120px;
     
 }
 
@@ -156,6 +157,8 @@ button {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    gap: 8px;
+    display: flex;
 }
 
 .text-benefits {
