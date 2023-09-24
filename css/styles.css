@@ -32,6 +32,8 @@ button {
     display: flex;
 }
 
+.img
+
 .logo {
     color:#4d5ae5;
     font-family: "Raleway", sans-serif;
@@ -163,7 +165,7 @@ padding: 120px 0 120px;
 }
 
 .benefits {
- flex-basis: calc((100% - 72px)/ 4);
+ flex-basis: calc ((100% - 72px) / 4);
 }
 
 .title-benefits {
