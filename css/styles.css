@@ -163,8 +163,8 @@ padding: 120px 0 120px;
   
 }
 
-.benefits {
- width: calc((100% - 72px)/ 4);
+.width {
+ width: calc((100% - 72px) / 4);
 }
 
 .title-benefits {
