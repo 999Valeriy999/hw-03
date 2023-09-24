@@ -147,11 +147,12 @@ padding: 120px 0 120px;
    flex-direction: column;
    display: flex;
    gap: 24px;
+   
     
 }
 
 .benefits {
-    width: calc((100% - 72px) / 4);
+    width:calc((100% - 3 * 24px) / 4);
 }
 
 .title-benefits {
