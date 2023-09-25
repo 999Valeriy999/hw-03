@@ -35,7 +35,7 @@ button {
 .container {
     width: 1158px;
     margin: 0 auto;
-    padding: 0 32px 0 32px;
+    padding: 0 15px 0 15px;
     display: flex;
 }
 
@@ -234,6 +234,8 @@ padding: 120px 0 120px;
 
 .footer-color {
     background-color: #2e2f42;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .footer-logo {
@@ -244,6 +246,11 @@ padding: 120px 0 120px;
     line-height: 1.17; /* 116.667% */
     letter-spacing: 0.03em; /* em, rem */ /* let.spa./ font-size */
     text-transform: uppercase;
+}
+
+.logo {
+    display: inline-block;
+    margin-bottom: 16px;
 }
 
 .text-footer {
