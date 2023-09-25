@@ -160,7 +160,6 @@ button {
     overflow: hidden;
   }
 
-
 .section-benefits {
 padding: 120px 0 120px;
 }
@@ -192,7 +191,8 @@ padding: 120px 0 120px;
 }
 
 .our-team {
-    background-color: #F4F4FD; 
+    background-color: #F4F4FD;
+    
 }
 
 .list-color {
@@ -206,6 +206,8 @@ padding: 120px 0 120px;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;
+    display: flex;
 }
 
 .name-team {
