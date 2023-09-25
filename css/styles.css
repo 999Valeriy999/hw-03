@@ -161,7 +161,8 @@ button {
   }
 
 .section-benefits {
-padding: 120px 0 120px;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 .list-benefits {
@@ -196,12 +197,6 @@ padding: 120px 0 120px;
     padding-bottom: 120px;
 }
 
-.name {
-   padding-top: 32px; 
-   padding-bottom: 32px;
-   text-align: center;
-}
-
 .list-color {
  background-color: #FFFFFF;
  flex-basis: calc((100% - 72px) / 4);
@@ -215,9 +210,17 @@ padding: 120px 0 120px;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    display:flex;
     margin-bottom: 72px;
-    display: flex;
+    
 }
+.portfolio {
+    display: flex;
+    gap: 24px;
+    column-gap: 24px;
+    row-gap: 48px; 
+}
+
 
 .list-team {
     display: flex;
@@ -242,7 +245,8 @@ padding: 120px 0 120px;
 
 .photo-portfolio {
     border-bottom: 1px solid #e7e9fc;
-    
+    flex-basis: calc((100% - 72px) / 4);
+   
 }
 
 .footer-conteiner {
