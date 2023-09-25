@@ -14,7 +14,7 @@ body {
 }
 
 a {
-    text-decoration: none; 
+    text-decoration: none;
 }
 
 ul {
@@ -260,6 +260,7 @@ padding: 120px 0 120px;
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+    max-width: 264px;
 }
 
 
