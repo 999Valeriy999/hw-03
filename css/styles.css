@@ -287,16 +287,21 @@ button {
 
 .logo-foot {
     display: inline-block;
-    margin-bottom: 16px;   
+     
+     
 }
 
 .text-footer {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+}
+    
+
+.centre {
+    margin-bottom: 16px;
     max-width: 264px;
 }
-
 
 
 
