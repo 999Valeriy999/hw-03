@@ -230,7 +230,6 @@ padding: 120px 0 120px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:  #2e2f42;
-    text-align: center;
     margin-bottom: 8px;
 }
 
@@ -238,6 +237,7 @@ padding: 120px 0 120px;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-align: center;
 }
 
 .photo-portfolio {
