@@ -216,7 +216,8 @@ button {
 }
 
 .team {
-  margin-bottom: 72px;  
+  margin-bottom: 72px;
+  text-align: center;  
 }
 
 .team-photo {
