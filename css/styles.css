@@ -269,6 +269,10 @@ button {
     display: flex;
 }
 
+.contain {
+    display: flex;
+}
+
 .footer-color {
     background-color: #2e2f42;
     padding-top: 100px;
