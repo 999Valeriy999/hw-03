@@ -282,11 +282,10 @@ button {
     line-height: 1.17; /* 116.667% */
     letter-spacing: 0.03em; /* em, rem */ /* let.spa./ font-size */
     text-transform: uppercase;
-    
+    display: inline-block;
 }
 
 .logo-foot {
-    display: inline-block;
     margin-bottom: 16px;
 }
 
