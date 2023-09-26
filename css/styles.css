@@ -4,8 +4,7 @@
   --c-background:#FFFFFF;
 }
   
-/* Base */
-
+    /* Base */
 body {
     font-family:"Roboto", sans-serif;
     background-color:#FFFFFF;
@@ -22,12 +21,12 @@ ul {
     padding: 0;
 }
 
-
 img {
     display: block;
     height: auto;
     width: 100%;
 }
+
 button {
     font-family: inherit;
 }
@@ -36,8 +35,8 @@ button {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px 0 15px;
+    display: flex;
 }
-
 
 .logo {
     color:#4d5ae5;
