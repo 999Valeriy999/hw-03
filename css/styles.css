@@ -266,6 +266,7 @@ button {
 
 .footer-conteiner {
     padding: 100px 0;
+    display: flex;
 }
 
 .footer-color {
