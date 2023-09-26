@@ -39,6 +39,10 @@ button {
    
 }
 
+.contain {
+    display: flex;
+}
+
 .logo {
     color:#4d5ae5;
     font-family: "Raleway", sans-serif;
@@ -271,9 +275,7 @@ button {
     display: flex;
 }
 
-.contain {
-    display: flex;
-}
+
 
 .footer-color {
     background-color: #2e2f42;
