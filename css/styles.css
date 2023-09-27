@@ -124,7 +124,7 @@ button {
     text-align: center;
     margin: 0 auto;
     max-width: 496px;
-    margin-bottom: 48px; 
+    margin-bottom: 48px;
 } 
 
 .button {
@@ -140,6 +140,7 @@ button {
    height: 56px;
    border: none;
    display: block;
+   margin: 0 auto;
 }
 
 .button:hover {
@@ -184,7 +185,6 @@ button {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    display: flex;
     margin-bottom: 8px;
     
 }
@@ -192,7 +192,6 @@ button {
 .text-benefits {
     line-height: 1.5;
     letter-spacing: 0.02em;
-    display: flex;
 }
 
 .our-team {
