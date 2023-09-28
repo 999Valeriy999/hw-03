@@ -2,8 +2,7 @@
   --c-primary:#434455;
   --c-background-light: #D9D9D9;
   --c-background:#FFFFFF;
-}
-  
+} 
     /* Base */
 body {
     font-family:"Roboto", sans-serif;
@@ -35,9 +34,7 @@ button {
 .container {
     width: 1158px;
     margin: 0 auto;
-    padding: 0 15px 0 15px;
-    
-   
+    padding: 0 15px 0 15px;   
 }
 
 .contain {
@@ -56,6 +53,8 @@ button {
     display: flex;
     align-items: center;
     margin-right: 76px;
+    margin-top: 24px;
+    margin-bottom: 24px;
 }
 
 .logo-accent {
@@ -149,7 +148,6 @@ button {
 
 .button:focus {
    background-color: #404BBF;
-
 }
 
 .visually-hidden {
@@ -163,7 +161,7 @@ button {
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
-  }
+}
 
 .section-benefits {
     padding-top: 120px;
@@ -185,8 +183,7 @@ button {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    margin-bottom: 8px;
-    
+    margin-bottom: 8px;   
 }
 
 .text-benefits {
@@ -225,8 +222,7 @@ button {
     text-transform: capitalize;
     color: #2e2f42;
     display:flex;
-    margin-bottom: 72px;
-    
+    margin-bottom: 72px;   
 }
 
 .portfolio {
