@@ -217,7 +217,13 @@ button {
 
 .team {
   margin-bottom: 72px;
-  text-align: center;  
+  text-align: center;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px; /* 111.111% */
+  letter-spacing: 0.72px;
+  text-transform: capitalize; 
 }
 
 .team-photo {
