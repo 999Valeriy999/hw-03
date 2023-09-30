@@ -293,6 +293,13 @@ button {
 .logo-foot {
     margin-bottom: 16px;
     display: inline-block;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17; /* 116.667% */
+    letter-spacing: 0.03em; /* em, rem */ /* let.spa./ font-size */
+    text-transform: uppercase;
+    color: var(--IRIS, #4D5AE5);
 }
 
 .text-footer {
